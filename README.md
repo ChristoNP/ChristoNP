@@ -1,16 +1,130 @@
-## Hi there 👋
+<div align="center">
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hello+there!&fontSize=60&fontColor=fff&fontAlignY=38&descAlignY=58&descSize=18"/>
+</div>
 
-<!--
-**ChristoNP/ChristoNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+const christ0 = {
+  location:   "🇮🇩 Indonesia",
+  background: "ex-aviation → fullstack dev",
+  currentWork: [
+    "HRIS web app (attendance) — Vue + Express + PostgreSQL",
+    "Admin dashboard — Hono + HTMX + PostgreSQL",
+  ],
+  shipped:    "Budget control app — Next.js + PostgreSQL (in production)",
+  stack:      ["Vue", "Next.js", "Express", "Hono", "HTMX", "PostgreSQL"],
+  alsoInto:   "bass 🎸",
+};
+```
 
-Here are some ideas to get you started:
+# Tech Stack
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+
+
+##  GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristoNP&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=FF6B6B&currStreakLabel=F97316)](https://git.io/streak-stats)
+
+</div>
+
+
+## Featured Projects
+<div align="center">
+    <table>
+    <tr>
+        <td align="center" width="200">
+            🎸<br>
+            <strong>pickMe</strong><br>
+            Interactive web app to learn & master fingerstyle guitar<br>
+            <em>Tech: <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></em><br>
+            <a href="https://github.com/pickMe-Project/pickMe">View Project →</a>
+        </td>
+        <td align="center" width="200">
+            🤖<br>
+            <strong>hype-bot</strong><br>
+            A hype bot built with TypeScript<br>
+            <em>Tech: <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></em><br>
+            <a href="https://github.com/ChristoNP/hype-bot">View Project →</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="200">
+            🛒<br>
+            <strong>Cartify</strong><br>
+            Shopping cart application<br>
+            <em>Tech: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"></em><br>
+            <a href="https://github.com/ChristoNP/Cartify">View Project →</a>
+        </td>
+        <td align="center" width="200">
+            📱<br>
+            <strong>Mobile-App</strong><br>
+            Mobile application project<br>
+            <em>Tech: <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="Javascript"></em><br>
+            <a href="https://github.com/ChristoNP/Mobile-App">View Project →</a>
+        </td>
+    </tr>
+    </table>
+</div>
+
+## Contribution Graph
+
+<div align="center">
+
+[![ChristoNP's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChristoNP&bg_color=0D1117&color=F97316&line=EA580C&point=FED7AA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
+
+## Currently
+
+- 🏗️ Building HRIS tools for STI
+- 📦 Already shipped a budget control app in production
+- 🎸 Playing bass when the compiler's thinking
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristoNP)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://rollyroller.com)
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+
+*used to work with planes. now i debug queries. both involve a lot of waiting.*
+
+</div>
