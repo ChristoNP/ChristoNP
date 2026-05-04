@@ -1,7 +1,3 @@
-<div align="center">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hello+there!&fontSize=60&fontColor=fff&fontAlignY=38&descAlignY=58&descSize=18"/>
-</div>
-
 ```typescript
 const christ0 = {
   location:   "🇮🇩 Indonesia",
@@ -47,16 +43,13 @@ const christ0 = {
 
 </div>
 
-
-
-##  GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChristoNP&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=FF6B6B&currStreakLabel=F97316)](https://git.io/streak-stats)
 
 </div>
-
 
 ## Featured Projects
 <div align="center">
@@ -108,13 +101,5 @@ const christ0 = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christonatanael)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://rollyroller.com)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
-
-*used to work with planes. now i debug queries. both involve a lot of waiting.*
 
 </div>
